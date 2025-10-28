@@ -44,3 +44,7 @@ This is a ready-to-run fullstack project:
 - Money stored in cents.
 - Booking uses MongoDB transaction to prevent overbooking (atomic increment).
 - Seed script creates sample experiences and slots.
+
+## Demo link
+
+-https://bookit-full-stack-development-e5gn.vercel.app/
